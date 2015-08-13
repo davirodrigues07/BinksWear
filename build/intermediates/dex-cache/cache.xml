@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/davirodrigues/AndroidStudioProjects/BrinksWear/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/jars/libs/internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="b5b92f469d515a13d778900f6d50c03d12f35504">
+        <dex dex="/home/davirodrigues/AndroidStudioProjects/BrinksWear/app/build/intermediates/pre-dexed/debug/internal_impl-22.0.0-caf7259f57508816ed0d62237fd1ff1c1a8955aa.jar" />
+    </item>
+    <item
+        jar="/home/davirodrigues/AndroidStudioProjects/BrinksWear/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a78183f30e769a98ab4820794f597763088d3065">
+        <dex dex="/home/davirodrigues/AndroidStudioProjects/BrinksWear/app/build/intermediates/pre-dexed/debug/classes-765907c4ee1703bbddca43dade37cddadb884781.jar" />
+    </item>
+    <item
+        jar="/home/davirodrigues/AndroidStudioProjects/BrinksWear/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="69dd177337ead693c408c8dddc9546bb6f1244fa">
+        <dex dex="/home/davirodrigues/AndroidStudioProjects/BrinksWear/app/build/intermediates/pre-dexed/debug/classes-ff513100421c7e2e9dcef06c22b52e27b6e3b2d4.jar" />
+    </item>
+    <item
+        jar="/home/davirodrigues/AndroidStudioProjects/BrinksWear/app/build/intermediates/exploded-aar/com.google.android.support/wearable/1.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="0e239b45d3b94ac3d759405a9c5fd1f88e53913b">
+        <dex dex="/home/davirodrigues/AndroidStudioProjects/BrinksWear/app/build/intermediates/pre-dexed/debug/classes-c82c39e51c37088047292a999afe15b2a746b497.jar" />
+    </item>
+    <item
+        jar="/home/davirodrigues/AndroidStudioProjects/BrinksWear/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/22.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c6d79137693d494dee16372d3921f919eb724ced">
+        <dex dex="/home/davirodrigues/AndroidStudioProjects/BrinksWear/app/build/intermediates/pre-dexed/debug/classes-fdd93c7bc13c0135547fb796edaadc921ae2fba0.jar" />
+    </item>
+    <item
+        jar="/home/davirodrigues/AndroidStudioProjects/BrinksWear/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="4e86306289ace4aa0cfec44a05ed2b410d36989d">
+        <dex dex="/home/davirodrigues/AndroidStudioProjects/BrinksWear/app/build/intermediates/pre-dexed/debug/classes-b74388f9808e6befd959add164f780d9ec03f2f5.jar" />
+    </item>
+    <item
+        jar="/home/davirodrigues/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/22.0.0/support-annotations-22.0.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="685d0b2c590447e85284ed84712cb363ba04eff8">
+        <dex dex="/home/davirodrigues/AndroidStudioProjects/BrinksWear/app/build/intermediates/pre-dexed/debug/support-annotations-22.0.0-e7f5ef4c6041c7e5c0fed6fb81baadd1961d317f.jar" />
+    </item>
+
+</items>
